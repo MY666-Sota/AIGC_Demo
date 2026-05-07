@@ -35,9 +35,11 @@ GitHub README 对本地视频内嵌的支持有限，仓库中保留了完整视
 
 ### UI 展示视频
 
-<video src="./ui-demo/aigc-ui-demo.mp4" controls width="100%"></video>
+由于 UI 展示视频文件较大，GitHub README 中不适合直接内嵌播放。
 
-- [打开 UI 展示视频](./ui-demo/aigc-ui-demo.mp4)
+可通过以下链接查看或下载完整展示视频：
+
+- [下载 UI 展示视频](./results/ui-demo/aigc-ui-demo.mp4)
 
 [![君临天下视频预览](./showcase/rule-the-world.png)](./showcase/rule-the-world.mp4)
 
