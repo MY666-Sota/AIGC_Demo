@@ -17,17 +17,17 @@
 
 ### 图片效果
 
-![国际都市](./results/showcase/global-city.png)
+![国际都市](./showcase/global-city.png)
 
-![大厦俯瞰](./results/showcase/tower-overview.png)
+![大厦俯瞰](./showcase/tower-overview.png)
 
-![君临天下](./results/showcase/rule-the-world.png)
+![君临天下](./showcase/rule-the-world.png)
 
-![君临天下2](./results/showcase/rule-the-world-2.png)
+![君临天下2](./showcase/rule-the-world-2.png)
 
-![奇幻通话](./results/showcase/fantasy-call.png)
+![奇幻通话](./showcase/fantasy-call.png)
 
-![赛博朋克](./results/showcase/cyberpunk.png)
+![赛博朋克](./showcase/cyberpunk.png)
 
 ### 视频效果
 
@@ -35,17 +35,17 @@ GitHub README 对本地视频内嵌的支持有限，仓库中保留了完整视
 
 ### UI 展示视频
 
-<video src="./results/ui-demo/aigc-ui-demo.mp4" controls width="100%"></video>
+<video src="./ui-demo/aigc-ui-demo.mp4" controls width="100%"></video>
 
-- [打开 UI 展示视频](./results/ui-demo/aigc-ui-demo.mp4)
+- [打开 UI 展示视频](./ui-demo/aigc-ui-demo.mp4)
 
-[![君临天下视频预览](./results/showcase/rule-the-world.png)](./results/showcase/rule-the-world.mp4)
+[![君临天下视频预览](./showcase/rule-the-world.png)](./showcase/rule-the-world.mp4)
 
-[![奇幻通话视频预览](./results/showcase/fantasy-call.png)](./results/showcase/fantasy-call.mp4)
+[![奇幻通话视频预览](./showcase/fantasy-call.png)](./showcase/fantasy-call.mp4)
 
-[![赛博朋克视频预览](./results/showcase/cyberpunk.png)](./results/showcase/cyberpunk.mp4)
+[![赛博朋克视频预览](./showcase/cyberpunk.png)](./showcase/cyberpunk.mp4)
 
-- [打开赛博城市视频结果](./results/showcase/cyber-city.mp4)
+- [打开赛博城市视频结果](./showcase/cyber-city.mp4)
 
 ## 📌 当前能力
 
