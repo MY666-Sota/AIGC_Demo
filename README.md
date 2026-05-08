@@ -205,25 +205,6 @@ npm run dev
 - `GET /api/health`
   检查数据库状态与模型服务环境变量状态。
 
-## 🧪 关键实现说明
-
-- `pages/api/generate.js`
-  负责串联 DeepSeek 分析、DashScope 搜索、Supabase 知识库检索、DeepSeek 提示词增强、DashScope 图片生成、DashScope 视频生成。
-- `lib/providers.js`
-  封装了 DeepSeek 与 DashScope 的具体调用逻辑，以及 DashScope 异步任务轮询逻辑。
-- `scripts/setup-database.js`
-  是 Supabase 就绪检查脚本，不是迁移脚本。
-
-## ⚠️ 注意事项
-
-- DashScope 图片与视频模型名称可能会随官方升级变化，如果你账号当前默认模型不同，可以通过 `.env.local` 覆盖默认模型名称。
-- 图生视频通常比文生图耗时更长，前端会持续轮询直到任务完成或失败。
-- 如果 API Key 无效、额度不足或模型无权限，生成任务会在历史步骤中标记失败并返回错误信息。
-
-## 🖼️ 截图说明
-
-`results/` 目录中已包含可直接用于 GitHub 仓库展示的图片与视频成品素材。
-
 ## 📬 联系方式
 
 如需交流项目、反馈问题或合作沟通，可联系：
